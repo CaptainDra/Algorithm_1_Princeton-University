@@ -1,0 +1,2 @@
+QuickFind is too slow. In the worst case, it will cost quadratic time.
+Need remember that you could touch everything in the main memory in about a second. (billions/sec)
